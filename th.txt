@@ -1,0 +1,23 @@
+udf
+pre define
+
+wr wa
+wr woa
+wor wa
+...
+
+
+task:
+pass users name in args and return all users name as listy in upper case using comprehsion
+
+def users(*args):
+    return[]
+
+
+lambda function
+
+anno function.. single line code..
+
+var = lambda param : function body
+var()
+
