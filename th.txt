@@ -21,3 +21,7 @@ anno function.. single line code..
 var = lambda param : function body
 var()
 
+
+decorators:
+without change code inside function decorators can cahnge behaviour of function
+decorators will accept func as argument and return one funcion as object..
