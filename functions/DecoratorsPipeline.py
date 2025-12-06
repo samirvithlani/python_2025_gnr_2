@@ -29,10 +29,14 @@ def save_data():
     return "data has been saved..."
 
 
-def runPipeline():
+def runPipeline(text):
     clean_data("data")
     transformData("data","#")
     save_data()
 
 
-runPipeline()    
+runPipeline("hi this issamasm   k    knsja   akm m ")       
+
+#cleand data --> extra space remove..
+#tite case convert..
+#sacve dagta --> print...

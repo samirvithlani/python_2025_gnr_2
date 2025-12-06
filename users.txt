@@ -1,0 +1,4 @@
+name-amit
+age-23
+city-Ahmedabad
+salary-23000

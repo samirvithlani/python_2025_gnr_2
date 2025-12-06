@@ -25,3 +25,23 @@ var()
 decorators:
 without change code inside function decorators can cahnge behaviour of function
 decorators will accept func as argument and return one funcion as object..
+
+FILES:
+open :
+read / write : app..
+close
+
+mode : r,w,a,
+class
+
+path:
+relative path :
+abs path      :th.txt --D:\royal\gnr-python\th.txt
+functions/De....py
+
+direct
+
+./ current direc
+../ parent  
+../../
+../../../
